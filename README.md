@@ -1,6 +1,11 @@
 # google-python-exercises
 Small programs written in Python as part of Google's Python Course
 
+:  logpuzzle.py  :
+
+Extracts image splice URLs from an Apache log file given as command line argument, downloads them, sorts them using their name, and generates an index.html of the sorted image splices to view the entire photo.
+
+
 
 :  babynames.py  : 
 
